@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "belajar vb", "belajar vb.vbproj", "{1C212EEC-73CE-4094-81E7-6061CEF5C897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C212EEC-73CE-4094-81E7-6061CEF5C897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C212EEC-73CE-4094-81E7-6061CEF5C897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C212EEC-73CE-4094-81E7-6061CEF5C897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C212EEC-73CE-4094-81E7-6061CEF5C897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8750C95-B2D8-47B6-9EA2-AEDE7311BF41}
+	EndGlobalSection
+EndGlobal

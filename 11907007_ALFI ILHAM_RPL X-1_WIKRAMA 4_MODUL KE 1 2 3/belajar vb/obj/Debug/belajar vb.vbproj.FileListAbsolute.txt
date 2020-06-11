@@ -1,0 +1,90 @@
+E:\PEMOGRAMAN\VB\belajar vb\bin\Debug\belajar vb.exe.config
+E:\PEMOGRAMAN\VB\belajar vb\bin\Debug\belajar vb.exe
+E:\PEMOGRAMAN\VB\belajar vb\bin\Debug\belajar vb.pdb
+E:\PEMOGRAMAN\VB\belajar vb\bin\Debug\belajar vb.xml
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar vb.vbprojAssemblyReference.cache
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Resources.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar vb.vbproj.GenerateResource.cache
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar vb.exe
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar vb.xml
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar vb.pdb
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form2.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form3.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form4.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form5.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form6.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form7.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form8.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form9.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form1.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form10.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form11.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form12.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form13.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form14.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form15.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form16.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form17.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form18.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form19.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form20.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form21.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form22.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form23.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form24.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form25.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form26.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form27.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form28.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form29.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form30.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form31.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form32.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form33.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form34.resources
+E:\PEMOGRAMAN\VB\belajar vb\obj\Debug\belajar_vb.Form35.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\bin\Debug\belajar vb.exe.config
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\bin\Debug\belajar vb.exe
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\bin\Debug\belajar vb.pdb
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\bin\Debug\belajar vb.xml
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar vb.vbprojAssemblyReference.cache
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form1.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form10.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form11.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form12.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form13.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form14.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form15.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form16.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form17.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form18.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form19.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form2.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form20.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form21.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form22.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form23.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form24.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form25.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form26.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form27.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form28.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form29.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form3.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form30.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form31.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form32.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form33.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form34.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form35.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form4.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form5.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form6.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form7.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form8.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Form9.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar_vb.Resources.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar vb.vbproj.GenerateResource.cache
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar vb.exe
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar vb.xml
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL KE 1 2 3\belajar vb\obj\Debug\belajar vb.pdb

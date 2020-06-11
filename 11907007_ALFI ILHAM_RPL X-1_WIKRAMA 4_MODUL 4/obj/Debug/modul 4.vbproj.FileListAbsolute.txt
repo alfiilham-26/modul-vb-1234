@@ -1,0 +1,22 @@
+E:\PEMOGRAMAN\VB\modul 4\bin\Debug\modul 4.exe.config
+E:\PEMOGRAMAN\VB\modul 4\bin\Debug\modul 4.exe
+E:\PEMOGRAMAN\VB\modul 4\bin\Debug\modul 4.pdb
+E:\PEMOGRAMAN\VB\modul 4\bin\Debug\modul 4.xml
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul 4.vbprojAssemblyReference.cache
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul_4.Form1.resources
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul_4.Resources.resources
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul 4.vbproj.GenerateResource.cache
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul 4.exe
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul 4.xml
+E:\PEMOGRAMAN\VB\modul 4\obj\Debug\modul 4.pdb
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul 4.vbprojAssemblyReference.cache
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul_4.Form1.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul_4.Resources.resources
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul 4.vbproj.GenerateResource.cache
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul 4.exe
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul 4.xml
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\obj\Debug\modul 4.pdb
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\bin\Debug\modul 4.exe.config
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\bin\Debug\modul 4.exe
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\bin\Debug\modul 4.pdb
+E:\PEMOGRAMAN\VB\modul vb 1 2 3 4\11907007_ALFI ILHAM_RPL X-1_WIKRAMA 4_MODUL 4\bin\Debug\modul 4.xml
